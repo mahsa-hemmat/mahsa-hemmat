@@ -44,13 +44,6 @@ skills = {
 
 ---
 
-## 📊 GitHub Stats
-
-![Mahsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahsa-hemmat&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsa-hemmat&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎓 Education & Background
 
 🎓 **MSc Computer Science** — Aalborg University, Denmark (2025–Present)  
