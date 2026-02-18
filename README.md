@@ -6,7 +6,7 @@
 
 ## 🧠 What I Build
 
-I work at the intersection of **machine learning research and production engineering** — building systems that go beyond notebooks and into the real world.
+I build real-world systems at the intersection of machine learning, backend engineering, and security, turning models into reliable, production-ready applications.
 
 My recent work includes:
 - 🧬 **Biomedical NLP pipelines** using PubMedBERT + BioMistral-7B with LoRA fine-tuning
