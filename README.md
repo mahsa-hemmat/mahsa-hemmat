@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
 I build real-world systems at the intersection of machine learning, backend engineering, and security, turning models into reliable, production-ready applications.
 
