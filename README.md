@@ -1,7 +1,5 @@
 ## Hi, I'm Mahsa 👋
 
-**MSc Computer Science @ Aalborg University, Denmark**  
-
 ---
 ## 📂 Featured Projects
 
