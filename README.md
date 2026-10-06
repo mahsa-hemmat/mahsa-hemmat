@@ -3,36 +3,6 @@
 **MSc Computer Science @ Aalborg University, Denmark**  
 
 ---
-
-## What I Build
-
-I build real-world systems at the intersection of machine learning, backend engineering, and security, turning models into reliable, production-ready applications.
-
-My recent work includes:
-- 🧬 **Biomedical NLP pipelines** using PubMedBERT + BioMistral-7B with LoRA fine-tuning
-- 🎭 **GAN-based facial expression synthesis** (Action Units) for HCI research
-- 🔍 **Real vs. AI-generated image detection** using computer vision and clustering
-- 🧾 **Fraud detection** with LoRA fine-tuned RoBERTa on financial transaction data
-- 🗣️ **Speech Emotion Recognition** using HuBERT Transformers
-- 📈 **Time series forecasting** with LSTM, GRU, and Bidirectional LSTM
-
----
-
-## 🛠️ Tech Stack
-
-```python
-skills = {
-    "ML & AI":      ["PyTorch", "TensorFlow", "scikit-learn", "HuggingFace", "OpenCV"],
-    "Languages":    ["Python", "Java", "C++", "Haskell"],
-    "MLOps":        ["Docker", "Kubernetes", "GitHub Actions", "CI/CD", "Linux"],
-    "Databases":    ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-    "Backend":      ["Spring Boot", "REST APIs", "FastAPI"],
-    "Data":         ["pandas", "NumPy", "matplotlib", "Jupyter"]
-}
-```
-
----
-
 ## 📂 Featured Projects
 
 | Project | Description | Stack |
