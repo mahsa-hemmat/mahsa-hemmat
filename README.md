@@ -24,7 +24,6 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahsa_Hemmat-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahsa-hemmatpanah/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail)](mailto:hemmatp.ml@gmail.com)
 
 ---
 
